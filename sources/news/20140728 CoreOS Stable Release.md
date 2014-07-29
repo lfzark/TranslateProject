@@ -1,8 +1,13 @@
 Translating by lfzark
 CoreOS Stable Release
+CoreOS 稳定版发布
 ================================================================================
-First off, [Happy SysAdmin Day][1]. We think we have a pretty good SysAdmin surprise in store for you today as we are announcing the CoreOS stable release channel. Starting today, you can begin running CoreOS in production. This version is the most tested, secure and reliable version available for users wanting to run CoreOS. This is a huge milestone for us. Since our first alpha release in August 2013:
-
+First off, [Happy SysAdmin Day][1]. We think we have a pretty good SysAdmin surprise in store for you today as we are announcing the CoreOS
+首先，祝大家SysAdmin节快乐。随着今日CoreOS稳定版的发布，我们相信我们已经为SysAdmin节准备好了一个不错的惊喜。从今天起，用户可以在产品中
+stable release channel. Starting today, you can begin running CoreOS in production. This version is the most tested, secure and reliable 
+运行CoreOS了。这个版本是用户想要的最经考验，最安全，最可靠的CoresOS版本。这对我们来说，是一个重大的里程碑。自从2013年八月我们第一个alpha版本
+version available for users wanting to run CoreOS. This is a huge milestone for us. Since our first alpha release in August 2013:
+发布以来
 - 191 releases have been tagged
 - Tested on hundreds of thousands of servers on the alpha and beta channels
 - Supported on 10+ platforms, ranging from bare metal to being primary images on Rackspace and Google
