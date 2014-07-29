@@ -39,15 +39,28 @@ This is a great opportunity to read about our [Update Philosophy][4] if you have
 如果你还没有阅读我们的[Update Philosophy][4]，我相信这是一个不错的选择。
 
 Please note: The stable release is not including etcd and fleet as stable, this release is only targeted at the base OS and Docker 1.0.
-请注意：稳定发布版本由于稳定性不包括etcd和fleet ，此发布版
+请注意：稳定发布版本由于稳定性不包括etcd和fleet ，此发布版支持目标在基础OS和Docker1.0。etcd/fleet多稳定版本支持会在随后的发布版本中
 etcd/fleet stable support will be in subsequent releases.
 
-For those of you who want to start running CoreOS in production be sure to review our quick [Switching Release Channels][5] guide. As you're booting new machines, be sure to base them off your desired channel from the beginning.
+For those of you who want to start running CoreOS in production be sure to review our quick [Switching Release Channels][5] guide. As you're
 
-Finally, thanks to the community for your support. We can’t wait to hear your feedback. For those looking for additional support of running CoreOS in production, be sure to check out our [Managed Linux][6] offerings, as we have a full support team in place ready to answer any questions you may have.
+如果想开始在产品中运行CoreOS，请确保阅读我们多快速指南  [Switching Release Channels][5]。由于你正在引导新机器，
+
+booting new machines, be sure to base them off your desired channel from the beginning.
+
+请确保在一开始就把他们建立在你想要的channel上
+
+Finally, thanks to the community for your support. We can’t wait to hear your feedback. For those looking for additional support of running
+
+最后，感谢社区多支持。我们迫不及待地想听到你们得反馈。而这些在运行CoreOS上寻求额外支持的用户，请确保查看我们的[Managed Linux][6] 建议，
+
+CoreOS in production, be sure to check out our [Managed Linux][6] offerings, as we have a full support team in place ready to answer any
+
+因为我们已经有了一个完整的支持团队，他们正在准备回答你遇到的任何问题。
+questions you may have.
 
 Happy SysAdmin Day, and thank you for making the web awesome.
-
+SysAdmin节快乐，感谢你们让互联网变得如此令人惊叹。
 --------------------------------------------------------------------------------
 
 via: https://coreos.com/blog/stable-release/
