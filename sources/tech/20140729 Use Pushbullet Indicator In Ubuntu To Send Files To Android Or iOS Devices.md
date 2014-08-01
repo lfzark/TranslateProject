@@ -46,35 +46,43 @@ The above PPA won’t work on Ubuntu 13.10.
 ![](http://itsfoss.itsfoss.netdna-cdn.com/wp-content/uploads/2014/07/Use_Pushbullet_indicator_Ubuntu.jpeg)
 
 - To send something to your smartphone, click on the indicator and select the device (linked to your Pushbullet account). It’s as simple as that.
--点击indicator，选择设备（已经连接到你的Pushbullet）以发送数据到智能手机
+-点击indicator，选择想要向其发送数据的智能手机（已经连接到你的Pushbullet的设备）
 
 ![](http://itsfoss.itsfoss.netdna-cdn.com/wp-content/uploads/2014/07/Pushbullet_Indicator_In_Ubuntu.png)
 
 - You’ll get a notification on the other device of receiving a file. You can access them all from the Pushbullet app.
-- 
+- 如果其他设备收到了一个文件，你将会接到一个通知。然后，你可以通过Pushbullet app应用获取所有的通知消息。
 - Android devices can also get notifications for phone calls, text messages and other notifications.
+- 安卓设备也可以接到来电、短信和其他类型的通知
 - If you send a file from your mobile device to your desktop, you will be notified about it:
+- 如果你从你的移动设备向桌面发送一个文件的话，你将会接到以下通知
 
 ![](http://itsfoss.itsfoss.netdna-cdn.com/wp-content/uploads/2014/07/Pushbulet_Indicator_Notification.jpeg)
 
-- The files are not automatically saved to a certain directory. To get the file sent from other device, go to Show last push from the indicator menu, it will show you the last push available. Click on it to download the file to a directory of your choice.
+- The files are not automatically saved to a certain directory. To get the file sent from other device, go to Show last
+- 这些文件不会自动的保存在某个目录下。获取其他设备发送来的文件，可以去目录查看最后推送，显示你最后推送的。点击下载文件到-你选择的目录中
+- push from the indicator menu, it will show you the last push available. Click on it to download the file to a directory of your choice.
 
 ### Install Nautilus extension for Pushbullet: ###
 ### 为Pushbullet安装Nautilus扩展 ###
 Alternatively, you can also install Nautilus extension for Pushbullet to send files directly from right click menu. Use the following command:
+另一个可选的建议，你可以为Pushbullet安装Nautilus扩展，使他可以通过右键目录直接发送文件。使用一下命令安装。
 
     sudo apt-get install nautilus-pushbullet
 
 You’ll have to authenticate it again after restarting.
+但是，在重启后你必须重新授权。
 
-Do share your experience with Pushbullet Indicator in comment section. Ciao ![](http://itsfoss.itsfoss.netdna-cdn.com/wp-includes/images/smilies/icon_smile.gif)
+Do share your experience with Pushbullet Indicator in comment section. Ciao
+请在评论区分享你使用Pushbullet Indicator小应用的经验,朋友们,再见.
+![](http://itsfoss.itsfoss.netdna-cdn.com/wp-includes/images/smilies/icon_smile.gif)
 
 --------------------------------------------------------------------------------
 
 via: http://itsfoss.com/pushbullet-indicator-ubuntu/
 
 作者：[Abhishek][a]
-译者：[译者ID](https://github.com/译者ID)
+译者：[译者ID](https://github.com/lfzark)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创翻译，[Linux中国](http://linux.cn/) 荣誉推出
