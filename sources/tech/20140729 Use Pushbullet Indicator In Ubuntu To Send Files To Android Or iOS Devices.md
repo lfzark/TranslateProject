@@ -1,6 +1,7 @@
 Translating By lfzark
 
 Use Pushbullet Indicator In Ubuntu To Send Files To Android Or iOS Devices
+Pushbullet的使用, 一个ubuntu系统下向Android/iOS设备推送文件的Indicator小应用
 ================================================================================
 ![](http://itsfoss.itsfoss.netdna-cdn.com/wp-content/uploads/2014/07/Pushbullet_Logog.jpg)
 
