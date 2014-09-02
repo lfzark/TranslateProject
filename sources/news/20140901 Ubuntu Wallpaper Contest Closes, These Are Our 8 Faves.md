@@ -57,7 +57,7 @@ If you like a drape below you can click on it to go over to the artist’s respe
 via: http://www.omgubuntu.co.uk/2014/08/best-ubuntu-wallpaper-contest-entries-1410
 
 作者：[Joey-Elijah Sneddon ][a]
-译者：[译者ID](https://github.com/译者ID)
+译者：[译者ID](https://github.com/lfzark)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创翻译，[Linux中国](http://linux.cn/) 荣誉推出
