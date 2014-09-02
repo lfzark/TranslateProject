@@ -1,12 +1,14 @@
 Translating By lfzark
 
 Ubuntu Wallpaper Contest Closes, These Are Our 8 Faves
+Ubuntu壁纸大赛落幕,出现最受欢迎的8款壁纸
 ================================================================================
 **Put your lens caps on, your stylus down, unplug your Wacom tablets and step away from the GIMP: the [Ubuntu 14.10 Wallpaper Contest][1] is now over.**
-
+**盖上你的镜头，放下你的笔，拔掉手绘板的电源，从你的GIMP离开，[Ubuntu 14.10 壁纸大赛][1] 已经结束**
 The biannual hunt for community contributed wallpapers to ship with the coming Ubuntu release always triggers a wave of excitement, enthusiasm and critical debate. *Too monotone! Too bright! Where are the plants? Y U NO CATS??!!*
 
 With the deadline now…well, dead and underlined, no further submissions will be accepted.
+随着终结时间的到来。。好吧，再次终结和强调，不再接收任何提交。
 
 Over the coming week a judging panel made up of last year’s winning artists will sift through each entry in turn to select their faves. The **winning set of wallpapers is to be revealed on September 9, 2014**. 
 
