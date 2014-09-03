@@ -13,13 +13,14 @@ With the deadline now…well, dead and underlined, no further submissions will b
 Over the coming week a judging panel made up of last year’s winning artists will sift through each entry in turn to select their faves. The **winning set of wallpapers is to be revealed on September 9, 2014**. 
 
 ### Our Favorites Means Just That: Ours ###
+我们最喜爱的仅仅意味着：这是属于我们的。
 
 We trawled through [the almost 400 entries][2] to pick a few of our favourites. Like always, this was a ruddy difficult task! So much talent, such little room on the install disc…
 
 **Disclaimer**: We are not part of the judging panel nor do we have any direct or indirect influence over the panel’s decision. Every submitted entry is viewed and judged by its own merits.
-
+**否认声明**：我们不属于评委会，我们也没有直接或间接影响评委会的决定。每个提交作品都会根据他们的价值进行判断和显示。
 If you like a drape below you can click on it to go over to the artist’s respective page on Flickr.
-
+如果喜欢下列作品，你可以点击进入艺术家作者在Flickr上的主页
 #### Glden leaves ####
 
 [![](https://farm6.staticflickr.com/5577/14919901295_ec1cdd13cb_c.jpg)][3]
