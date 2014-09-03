@@ -6,16 +6,18 @@ Ubuntu壁纸大赛落幕,出现最受欢迎的8款壁纸
 **Put your lens caps on, your stylus down, unplug your Wacom tablets and step away from the GIMP: the [Ubuntu 14.10 Wallpaper Contest][1] is now over.**
 **盖上你的镜头，放下你的笔，拔掉手绘板的电源，从你的GIMP离开，[Ubuntu 14.10 壁纸大赛][1] 已经结束**
 The biannual hunt for community contributed wallpapers to ship with the coming Ubuntu release always triggers a wave of excitement, enthusiasm and critical debate. *Too monotone! Too bright! Where are the plants? Y U NO CATS??!!*
-
+每两年的  总是会引发人们的激动、热情和具有重要意义的讨论。*太太难调了！太亮了！植物在哪里？ 你为什么没有猫？？！!!*
 With the deadline now…well, dead and underlined, no further submissions will be accepted.
 随着终结时间的到来。。好吧，再次终结和强调，不再接收任何提交。
 
 Over the coming week a judging panel made up of last year’s winning artists will sift through each entry in turn to select their faves. The **winning set of wallpapers is to be revealed on September 9, 2014**. 
-
+在接下来的一周，为了评选出最喜爱的作品，由上一年获胜的艺术家组成的评委会将会对每一个作品进行筛选。The **获胜的壁纸将会在2014年9月9日宣布**. 
 ### Our Favorites Means Just That: Ours ###
 我们最喜爱的仅仅意味着：这是属于我们的。
 
 We trawled through [the almost 400 entries][2] to pick a few of our favourites. Like always, this was a ruddy difficult task! So much talent, such little room on the install disc…
+
+我们从[大约400张][2]中搜罗了一些我们最喜爱的，一如既往地，这是一个非常苦难的任务，如此多的杰作，但安装盘上却如此小的空间。
 
 **Disclaimer**: We are not part of the judging panel nor do we have any direct or indirect influence over the panel’s decision. Every submitted entry is viewed and judged by its own merits.
 **否认声明**：我们不属于评委会，我们也没有直接或间接影响评委会的决定。每个提交作品都会根据他们的价值进行判断和显示。
